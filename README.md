@@ -1,6 +1,6 @@
 # TraineeProject
 # Компоненты
-docker
+_docker_
 Каталог docker содержит файл docker-compose.yaml, который который используется для определения конфигурации Docker Compose для развертывания Airflow и связанных компонентов в Docker-контейнерах.
 
 dags
